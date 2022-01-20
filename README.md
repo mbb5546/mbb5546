@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mbb5546
+- 👋 Hi, I’m @Gonski
 - 👀 I’m interested in Penetration Testing/Ethical Hacking
 - 🌱 I’m currently learning how to perform penetration tests and the tools required for said tests.
 - 💞️ I’m looking to collaborate and share ideas, tools and knowledge on anything Penetration Testing related.
